@@ -93,4 +93,7 @@ This project explores how viral social media content influences product sales, f
 #### 2. Platform Usage Trends
 ![Platform Usage Trends](platform_usage_graph.png)
 
-
+### Future Directions
+- Examine long-term effects of viral content on sales.
+- Analyze cross-platform campaigns for better synergy.
+- Study the role of influencers versus organic posts.
