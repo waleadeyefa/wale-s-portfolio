@@ -54,4 +54,10 @@ To enhance and scale the system, the following improvements are suggested:
 * Platform Scalability: Optimize the system for handling large data volumes on social media platforms.
 * Social Media Integration: Enable seamless integration with social media APIs for broader adoption.
 
-# Project 2: 
+# Project 2: Analyzing the Financial Impact of Viral Social Media Content on Sales
+This project explores how viral social media content influences product sales, focusing on platforms like TikTok and Instagram. Using Python for data processing and analysis, the project investigates demographic patterns, engagement metrics, and platform-specific trends to quantify the financial impact of viral campaigns.
+
+## Key Features:
+* Platform Insights: TikTok's dominance in driving product purchases (e.g., 49% conversion rate).
+* Engagement Trends: Relationships between likes, shares, views, and sales.
+* Demographics: Analysis of teen usage patterns and income group preferences.
