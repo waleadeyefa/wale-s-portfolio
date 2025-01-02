@@ -80,3 +80,10 @@ This project explores how viral social media content influences product sales, f
    - Conducted descriptive statistics to explore trends.
    - Created visualizations to understand engagement patterns.
 
+### Key Insights
+- TikTok drives 49% of users to purchase a product after viewing viral content.
+- Viral campaigns significantly boost sales, as seen with Stanley's 275% increase post-viral video.
+- Engagement metrics like views, likes, and shares directly correlate with sales.
+- Demographics play a role: TikTok is popular among teens, while Instagram targets higher-income users.
+
+
