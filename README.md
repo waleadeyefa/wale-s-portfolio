@@ -61,3 +61,22 @@ This project explores how viral social media content influences product sales, f
 * Platform Insights: TikTok's dominance in driving product purchases (e.g., 49% conversion rate).
 * Engagement Trends: Relationships between likes, shares, views, and sales.
 * Demographics: Analysis of teen usage patterns and income group preferences.
+
+## Objectives:
+* To quantify the financial impact of viral TikTok videos on product sales (e.g., Dyson Airwrap and Shark Flexstyle).
+* To analyze consumer engagement patterns and their contributions to sales.
+* To identify challenges in predicting viral content success and strategies for improvement.
+
+## Methodology
+1. **Data Collection**:
+   - Processed social media engagement data using Google Colab and Python.
+   - Organized demographic and platform usage data.
+
+2. **Data Cleaning**:
+   - Removed irrelevant or misaligned data entries.
+   - Categorized data by platform, usage, and engagement metrics.
+
+3. **Analysis**:
+   - Conducted descriptive statistics to explore trends.
+   - Created visualizations to understand engagement patterns.
+
