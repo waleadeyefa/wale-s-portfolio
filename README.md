@@ -104,8 +104,7 @@ Marketing Impact:
 - Viral Content Drives Sales: Platforms like TikTok boost brand visibility and drive sales through viral trends.
 - Competitive Edge: Businesses that excel on TikTok can dominate in industries like fashion, beauty, and gaming.
 - Effective Marketing: Social media remains the most impactful marketing strategy, particularly for engaging Gen Z.
-- Time on Social Media
-- Teens spend increasing hours on platforms, peaking at 62 hours/month by age 17, before tapering off post-teen years.
+- Time on Social Media: Teens spend increasing hours on platforms, peaking at 62 hours/month by age 17, before tapering off post-teen years.
 
 ### Future Directions
 - Examine long-term effects of viral content on sales.
