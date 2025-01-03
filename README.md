@@ -94,13 +94,13 @@ This project explores how viral social media content influences product sales, f
 ![Platform Usage Trends](platform_usage_graph.png)
 
 ### Results
-Platform Usage Patterns
+Platform Usage Patterns:
 - YouTube (93%) dominates among teens (13-17), especially females, with "Almost Constant" use.
 - TikTok (63%) is highly favored by Gen Z, with frequent daily use, particularly by males. Its short-form content makes it a hub for viral opportunities.
 - Instagram (59%) and Snapchat (60%) are popular among female teens, supporting frequent engagement.
 - Facebook (45%), mostly used by males aged 18-24, shows declining popularity among younger teens.
   
-Marketing Impact
+Marketing Impact:
 - Viral Content Drives Sales: Platforms like TikTok boost brand visibility and drive sales through viral trends.
 - Competitive Edge: Businesses that excel on TikTok can dominate in industries like fashion, beauty, and gaming.
 - Effective Marketing: Social media remains the most impactful marketing strategy, particularly for engaging Gen Z.
