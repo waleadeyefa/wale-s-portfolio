@@ -88,7 +88,7 @@ This project explores how viral social media content influences product sales, f
 
 ### Visualizations
 #### 1. Average Hours Spent Per Age Group
-![Average Hours Spent Per Age Group](viral_content_insights.png)
+![Average Hours Spent Per Age Group](AvgHoursSpent.png)
 
 #### 2. Platform Usage Trends
 ![Platform Usage Trends](platform_usage_graph.png)
