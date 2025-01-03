@@ -94,6 +94,12 @@ This project explores how viral social media content influences product sales, f
 ![Platform Usage Trends](platform_usage_graph.png)
 
 ### Results
+Average Hours Spent Patterns:
+- Teenagers aged 13–17 spend an average of 4–6 hours daily on social media, peaking at age 17 (5.8 hours/day).
+- 62% of 17-year-olds spend at least 4 hours daily, the highest across all ages.
+- Engagement drops beyond age 17, with 19-year-olds averaging 4.5 hours/day, and 51% spending 4+ hours daily.
+- Mid-teen years represent peak engagement, offering prime opportunities for targeting this demographic.
+  
 Platform Usage Patterns:
 - YouTube (93%) dominates among teens (13-17), especially females, with "Almost Constant" use.
 - TikTok (63%) is highly favored by Gen Z, with frequent daily use, particularly by males. Its short-form content makes it a hub for viral opportunities.
