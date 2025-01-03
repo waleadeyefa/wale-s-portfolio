@@ -87,8 +87,8 @@ This project explores how viral social media content influences product sales, f
 - Demographics play a role: TikTok is popular among teens, while Instagram targets higher-income users.
 
 ### Visualizations
-#### 1. Viral Content Insights
-![Viral Content Insights](viral_content_insights.png)
+#### 1. Average Hours Spent Per Age Group
+![Average Hours Spent Per Age Group](viral_content_insights.png)
 
 #### 2. Platform Usage Trends
 ![Platform Usage Trends](platform_usage_graph.png)
