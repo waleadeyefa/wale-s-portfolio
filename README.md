@@ -112,6 +112,11 @@ Marketing Impact:
 - Effective Marketing: Social media remains the most impactful marketing strategy, particularly for engaging Gen Z.
 - Time on Social Media: Teens spend increasing hours on platforms, peaking at 62 hours/month by age 17, before tapering off post-teen years.
 
+### Project Outcomes
+In this project, I analyzed the financial impact of viral social media content on product sales, focusing on platforms like TikTok and Instagram. Using Python for data processing and analysis, I identified key trends, such as TikTok's ability to drive conversions, with 49% of users making purchases after encountering viral content. This analysis was supported by data cleaning, demographic segmentation, and visualization techniques to uncover actionable insights.
+
+My work demonstrated that viral marketing is not just about creating trends it’s a measurable strategy that businesses can leverage to increase engagement and revenue. For example, the analysis revealed a 275% increase in Stanley’s sales following a viral TikTok video, underscoring the platform's influence on consumer behavior.
+
 ### Future Directions
 - Examine long-term effects of viral content on sales.
 - Analyze cross-platform campaigns for better synergy.
