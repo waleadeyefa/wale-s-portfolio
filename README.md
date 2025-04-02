@@ -139,4 +139,12 @@ Spam emails pose security threats and disrupt communication. This project compar
 - Tokenization: Split email text into words.
 - Vectorization: Used TF-IDF (Term Frequency-Inverse Document Frequency) to convert text into numerical format.
 
-###
+### Results
+#### Model Performance Comparison
+![Model Performance](performancetable.png)
+
+#### Confusion Matrices
+![Confusion Matrix Comparison](confusionmatrix.png)
+
+#### Model Performance Graph Comparison
+![Model Performance Graph](performancecomparison.png)
