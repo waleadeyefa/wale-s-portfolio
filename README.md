@@ -121,3 +121,4 @@ My work demonstrated that viral marketing is not just about creating trends it‚Ä
 - Examine long-term effects of viral content on sales.
 - Analyze cross-platform campaigns for better synergy.
 - Study the role of influencers versus organic posts.
+# Project 3: Evaluating Na√Øve Bayes vs. Logistic Regression for Email Spam Detection
