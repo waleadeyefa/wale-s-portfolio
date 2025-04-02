@@ -1,7 +1,7 @@
 # Wale's Portfolio
 
 # Project 1: Cyber Bullying Detection System
-This is a capstone project I completed in the final year of my Bachelor's degree in Information Technology. I developed a Python-based system that identifies and prevents harmful online messages, such as hate speech and threats, to promote safer and more respectful interactions on social media platforms.
+I developed a Python-based system that identifies and prevents harmful online messages, such as hate speech and threats, to promote safer and more respectful interactions on social media platforms.
 
 ### Highlights:
 
@@ -122,3 +122,21 @@ My work demonstrated that viral marketing is not just about creating trends it�
 - Analyze cross-platform campaigns for better synergy.
 - Study the role of influencers versus organic posts.
 # Project 3: Evaluating Naïve Bayes vs. Logistic Regression for Email Spam Detection
+Spam emails pose security threats and disrupt communication. This project compares Naïve Bayes and Logistic Regression models to determine which performs best for spam detection.
+
+### Research Question
+"How effectively can machine learning models distinguish spam from legitimate emails, and which algorithm performs best?"
+
+### Dataset
+- **Source:** [Email Spam Classification Dataset (Kaggle)](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
+- **Format:** CSV with email text and spam/ham labels.
+### Methods 
+- Naïve Bayes is efficient for text classification and works well with probability-based decision-making.
+- Logistic Regression is a powerful linear model that performs well in binary classification tasks.
+
+### Data Preprocessing 
+- Text Cleaning: Removed special characters, stop words, and converted text to lowercase.
+- Tokenization: Split email text into words.
+- Vectorization: Used TF-IDF (Term Frequency-Inverse Document Frequency) to convert text into numerical format.
+
+###
