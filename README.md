@@ -1,7 +1,20 @@
 # Wale's Portfolio
 
 # Data Jobs Dashboard w/ Power BI
-![Dashboard](Jobs_Dashboard.pbix)
+Developed an interactive Power BI dashboard analyzing 340K+ data job listings worldwide. Visualized top data job roles, salary trends, and geographic distribution using KPI cards, bar charts, and map visuals. Emphasized clean layout and user-focused design for business-ready storytelling.
+- Top data job roles (Data Engineer, Analyst, Scientist)
+- Average yearly and hourly salaries
+- Global job distribution using a map visualization
+![Dashboard](datajobs.png)
+
+### 🛠️ Key Skills Utilized
+- **Power BI**
+- **Data Visualization**
+- **KPI Design**
+- **Geo Mapping**
+- **Job Market Analysis**
+- **Dashboard Layout & UX Design**
+- **Storytelling with Data**
 
 # Project 1: Evaluating Naïve Bayes vs. Logistic Regression for Email Spam Detection
 Spam emails pose security threats and disrupt communication. This project compares Naïve Bayes and Logistic Regression models to determine which performs best for spam detection.
