@@ -1,5 +1,7 @@
 # Wale's Portfolio
 
+# Data Jobs Dashboard w/ Power BI
+
 # Project 1: Evaluating Naïve Bayes vs. Logistic Regression for Email Spam Detection
 Spam emails pose security threats and disrupt communication. This project compares Naïve Bayes and Logistic Regression models to determine which performs best for spam detection.
 
