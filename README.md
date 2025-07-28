@@ -1,6 +1,6 @@
 # Wale's Projects
 
-# Data Jobs Dashboard w/ Power BI
+# Project 1: Data Jobs Dashboard w/ Power BI
 Developed an interactive Power BI dashboard analyzing 340K+ data job listings worldwide. Visualized top data job roles, salary trends, and geographic distribution using KPI cards, bar charts, and map visuals. Emphasized clean layout and user-focused design for business-ready storytelling.
 - Top data job roles (Data Engineer, Analyst, Scientist)
 - Average yearly and hourly salaries
@@ -16,7 +16,7 @@ Developed an interactive Power BI dashboard analyzing 340K+ data job listings wo
 - **Dashboard Layout & UX Design**
 - **Storytelling with Data**
 
-# Project 1: Evaluating Naïve Bayes vs. Logistic Regression for Email Spam Detection
+# Project 2: Evaluating Naïve Bayes vs. Logistic Regression for Email Spam Detection
 Spam emails pose security threats and disrupt communication. This project compares Naïve Bayes and Logistic Regression models to determine which performs best for spam detection.
 
 ### Research Question
@@ -44,7 +44,7 @@ Spam emails pose security threats and disrupt communication. This project compar
 #### Model Performance Graph Comparison
 ![Model Performance Graph](performancecomparison.png)
 
-# Project 2: Analyzing the Financial Impact of Viral Social Media Content on Sales
+# Project 3: Analyzing the Financial Impact of Viral Social Media Content on Sales
 This project explores how viral social media content influences product sales, focusing on platforms like TikTok and Instagram. Using Python for data processing and analysis, the project investigates demographic patterns, engagement metrics, and platform-specific trends to quantify the financial impact of viral campaigns.
 
 ### Key Features:
