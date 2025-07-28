@@ -1,4 +1,4 @@
-# Wale's Portfolio
+# Wale's Projects
 
 # Data Jobs Dashboard w/ Power BI
 Developed an interactive Power BI dashboard analyzing 340K+ data job listings worldwide. Visualized top data job roles, salary trends, and geographic distribution using KPI cards, bar charts, and map visuals. Emphasized clean layout and user-focused design for business-ready storytelling.
